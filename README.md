@@ -1,16 +1,13 @@
-## Hi there 👋
+# Solvezera DEV 🚀
 
-<!--
-**solvezeradev/Solvezeradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao repositório oficial do **Solvezera DEV**! Aqui você encontra todos os códigos desenvolvidos durante os vídeos do canal [@Solvedev](https://www.youtube.com/@Solvedev), com tutoriais, projetos e experimentos de programação.
 
-Here are some ideas to get you started:
+## Sobre o canal 🎥
+No @Solvedev, exploramos temas de desenvolvimento, programação e tecnologia de forma prática e descomplicada. Se você curte aprender com projetos reais e hands-on, inscreva-se e acompanhe nosso conteúdo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que você encontra aqui 💻
+- Projetos abordados nos vídeos
+- Exemplos práticos para aprendizado
+- Scripts úteis para desenvolvedores
+
+Siga, contribua e aprenda junto com a gente! 😊
